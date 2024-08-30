@@ -1,0 +1,36 @@
+body {
+    font-family: "Book Antiqua", serif;
+    font-size: 18px;
+    display: flex;
+    color: #125280;
+}
+
+a { color: #125280 }
+a:visited { color: #136CB0 }
+a:hover { color: #6B6483 }
+
+h1, h2 {
+    font-family: "Century Gothic", sans-serif;
+    color: #2F6F3D;
+}
+
+h1 {
+    font-size: 130%;
+    text-align: center;
+}
+
+h2 {
+    font-size: 115%;
+
+}
+
+#wrapper {
+    max-width: 40em;
+    padding: 1em;
+    margin: auto;
+}
+
+#couverture {
+    float: right;
+    margin: 1em;
+}
